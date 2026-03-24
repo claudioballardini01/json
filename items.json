@@ -256,5 +256,9 @@
       ],
       "resource_name": "TypedDataset"
     }
-  ]
+  ],
+  "self": "https://raw.githubusercontent.com/claudioballardini01/json/refs/heads/main/items.json",
+  "prev": null,
+  "next": null,
+  "count": 1
 }
