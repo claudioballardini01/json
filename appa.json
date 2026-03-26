@@ -14,7 +14,7 @@
       "distribution": [
         {
           "id": "024b69951c74ed18f241cc8e24a8ad9a",
-          "uri": "https://www.appa.provincia.tn.it/api/openapi/documenti-e-dati/risorse/024b69951c74ed18f241cc8e24a8ad9a#Radioattivita-negli-alimenti",
+          "uri": "https://raw.githubusercontent.com/claudioballardini01/json/refs/heads/main/resource.json",
           "priority": 1
         }
       ],
