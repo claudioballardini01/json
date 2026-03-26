@@ -21,7 +21,7 @@
       "publisher": [
         {
           "id": "structureP330",
-          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "uri": "https://raw.githubusercontent.com/claudioballardini01/json/refs/heads/main/publisher.java",
           "priority": 1
         }
       ],
