@@ -4,6 +4,7 @@
   "published_at": "2025-03-25T09:58:51+01:00",
   "modified_at": "2026-03-26T04:01:41+01:00",
   "is_public": true,
+  "legal_name": "Umst digitalizzazione e reti",
   "alt_name": "",
   "abstract": "",
   "type": [
