@@ -4,6 +4,7 @@
   "published_at": "2025-03-25T09:58:51+01:00",
   "modified_at": "2026-03-26T04:01:41+01:00",
   "is_public": true,
+  "legal_name": "Umst digitalizzazione e reti",
   "alt_name": "",
   "abstract": "",
   "type": [
@@ -82,6 +83,5 @@
   ],
   "more_information": "<p><a href=\"/Amministrazione/Documenti/Informativa-generale-privacy-Umst-digitalizzazione-e-reti#page-content\" target=\"_blank\">Informativa generale privacy</a></p>",
   "identifier": "P330",
-  "ipa_code": "SN1W1H",
   "resource_name": "TypedOrganization"
 }
