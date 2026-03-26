@@ -21,7 +21,7 @@
       "publisher": [
         {
           "id": "structureP330",
-          "uri": "https://raw.githubusercontent.com/claudioballardini01/json/refs/heads/main/publisher.java",
+          "uri": "https://raw.githubusercontent.com/claudioballardini01/json/refs/heads/main/pat_publisher.java",
           "priority": 1
         }
       ],
