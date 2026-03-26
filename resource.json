@@ -1,0 +1,147 @@
+{
+  "id": "024b69951c74ed18f241cc8e24a8ad9a",
+  "uri": "https://www.appa.provincia.tn.it/api/openapi/documenti-e-dati/risorse/024b69951c74ed18f241cc8e24a8ad9a#Radioattivita-negli-alimenti",
+  "published_at": "2022-12-14T16:51:38+01:00",
+  "modified_at": "2026-03-02T16:54:59+01:00",
+  "is_public": true,
+  "title": "Radioattività negli alimenti",
+  "short_description": "<p>Le analisi hanno come scopo la ricerca di eventuali situazioni di contaminazione antropica da radioisotopi artificiali, come ad esempio da cesio 137.</p>",
+  "description": "<p class=\" text-justify\">Il controllo della radioattività negli alimenti consumati dalla popolazione è richiesto sia dalla legge italiana che da quella europea; è attuato sulla base di un piano di monitoraggio definito da APSS cui si affianca quello stabilito dalla rete RESORAD (REte nazionale di SOrveglianza della RADioattività ambientale), coordinata da ISIN (Ispettorato nazionale per la sicurezza nucleare e la radioprotezione) e che comprende le Agenzie per la protezione dell’ambiente (ARPA/APPA) e altri enti che concorrono a vario titolo alle misure. È previsto anche il controllo di campioni del cosiddetto “pasto completo”, prelevati in mense aziendali o scolastiche.</p><p class=\" text-justify\">Lo scopo delle analisi è principalmente quello di valutare la presenza di contaminazione antropica da radioisotopi artificiali, tra i quali ad esempio il Cesio-137 (Cs-137), che si forma principalmente come sottoprodotto della fissione nucleare dell’uranio nei reattori nucleari a fissione. Questo è uno degli elementi che ha raggiunto anche il nostro territorio a seguito dell’incidente alla centrale di Chernobyl del 1986 e di cui ancora oggi si trova traccia in alcune matrici alimentari (e ambientali). Le quantità misurate sono comunque così piccole da non rendere ipotizzabili rischi per la salute umana.</p><p class=\" text-justify\">Il Regolamento di esecuzione (UE) 2020/1158 della Commissione disciplina le “condizioni d’importazione di prodotti alimentari e alimenti per animali originari dei paesi terzi a seguito dell’incidente verificatosi nella centrale nucleare di Chernobyl”, e in particolare fissa un limite per il valore della concentrazione di attività di Cs-137 pari a:</p>\n<ul>\n\n<li>370 Bq/kg per il latte e i prodotti lattiero-caseari e per gli alimenti destinati ai lattanti e ai bambini nella prima infanzia;</li>\n\n<li>600 Bq/kg per tutti gli altri prodotti.</li>\n\n</ul>\n<p class=\" text-justify\">Il Becquerel (Bq) è l’unità di misura del Sistema Internazionale per misurare l’attività di un radionuclide, ed è definito come il numero di decadimenti che avvengono in 1 secondo in un dato materiale.</p><p class=\" text-justify\">Nel caso invece si verificasse una situazione di emergenza radiologica (quale ad esempio un incidente in una centrale nucleare) si applicano i valori limite definiti dall’Unione Europea nel Regolamento Euratom 2016/52 che stabilisce i livelli massimi di contaminazione nei diversi alimenti e mangimi, con una attenzione particolare alla tutela dell’infanzia.</p><p class=\" text-justify\">Molti alimenti, tra i quali ad esempio fagioli, avocado, banane, spinaci, patate e altri,  sono ricchi di Potassio (K). In natura, il Potassio ha tre isotopi, uno dei quali, il K-40, è radioattivo e costituisce lo 0.01% del totale; questo isotopo è quindi naturalmente presente negli alimenti, e anche all’interno del corpo umano, in quantità misurabili.</p><p class=\" text-justify\">Di seguito si riportano i valori di Cs-137 e K-40 misurati negli alimenti, a seconda del tipo di matrice.</p>",
+  "description_oc": "",
+  "data": {
+    "apiEnabled": false,
+    "extraUsers": null,
+    "itemName": "item",
+    "views": [
+      "table"
+    ],
+    "fields": [
+      {
+        "identifier": "numero_campionamento",
+        "label": "numero campionamento",
+        "type": "number",
+        "required": "false",
+        "js_label": "numero campionamento"
+      },
+      {
+        "identifier": "anno",
+        "label": "anno",
+        "type": "string",
+        "required": "false",
+        "js_label": "anno"
+      },
+      {
+        "identifier": "mese",
+        "label": "mese",
+        "type": "string",
+        "required": "false",
+        "js_label": "mese"
+      },
+      {
+        "identifier": "categoria_alimento",
+        "label": "categoria alimento",
+        "type": "string",
+        "required": "false",
+        "js_label": "categoria alimento"
+      },
+      {
+        "identifier": "note",
+        "label": "note",
+        "type": "string",
+        "required": "false",
+        "js_label": "note"
+      },
+      {
+        "identifier": "localita_campionamento",
+        "label": "località campionamento",
+        "type": "string",
+        "required": "false",
+        "js_label": "località campionamento"
+      },
+      {
+        "identifier": "ente_prelevatore",
+        "label": "ente prelevatore",
+        "type": "string",
+        "required": "false",
+        "js_label": "ente prelevatore"
+      },
+      {
+        "identifier": "concentrazioni_di_attivita_bq_kg_cs_137",
+        "label": "concentrazioni di attivita [Bq/kg] Cs-137",
+        "type": "string",
+        "required": "false",
+        "js_label": "concentrazioni di attivita [Bq/kg] Cs-137"
+      },
+      {
+        "identifier": "concentrazioni_di_attivita_bq_kg_k_40",
+        "label": "concentrazioni di attivita [Bq/kg] K-40",
+        "type": "string",
+        "required": "false",
+        "js_label": "concentrazioni di attivita [Bq/kg] K-40"
+      }
+    ],
+    "facetsSettings": [
+      "anno",
+      "categoria_alimento",
+      "mese"
+    ],
+    "isEnabledSearchInput": false,
+    "calendarSettings": [],
+    "tableSettings": {
+      "show_fields": [
+        "anno",
+        "categoria_alimento",
+        "concentrazioni_di_attivita_bq_kg_cs_137",
+        "concentrazioni_di_attivita_bq_kg_k_40",
+        "ente_prelevatore",
+        "localita_campionamento",
+        "mese",
+        "note",
+        "numero_campionamento"
+      ],
+      "view": "default",
+      "order": "desc"
+    },
+    "chartSettings": null,
+    "counterSettings": {
+      "count_field": "false"
+    },
+    "openingView": null
+  },
+  "download_url": null,
+  "access_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS565uwZHrw50_GoLrPWN5uACMhIzthu0uezcBWkze7H4IEtR8-IQWosHrYYZCDlesg7iz4el7REdtS/pub?output=csv|Analisi alimenti",
+  "topics": [
+    {
+      "id": "ambiente",
+      "uri": "https://www.appa.provincia.tn.it/api/openapi/argomenti/ambiente#Ambiente",
+      "priority": 1
+    },
+    {
+      "id": "74e40c41e35a584b659056363406e2b4",
+      "uri": "https://www.appa.provincia.tn.it/api/openapi/argomenti/74e40c41e35a584b659056363406e2b4#Agenti-fisici",
+      "priority": 2
+    },
+    {
+      "id": "d98992ad76230ff5fb678fe26f9f2e64",
+      "uri": "https://www.appa.provincia.tn.it/api/openapi/argomenti/d98992ad76230ff5fb678fe26f9f2e64#Radioattivita",
+      "priority": 3
+    }
+  ],
+  "modified": "2022-12-14",
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "language": [
+    "Italiano"
+  ],
+  "format": [
+    "CSV"
+  ],
+  "transparency_section": [],
+  "keyword": [],
+  "image": {
+    "filename": "Formaggio_di_fossa.jpg",
+    "uri": "/var/appa/storage/images/documenti-e-dati/risorse/radioattivita-negli-alimenti/688918-13-ita-IT/Radioattivita-negli-alimenti.jpg"
+  },
+  "resource_name": "TypedDistribution"
+}
