@@ -16,7 +16,13 @@
           "id": "024b69951c74ed18f241cc8e24a8ad9a",
           "uri": "https://raw.githubusercontent.com/claudioballardini01/json/refs/heads/main/resource.json",
           "priority": 1
+        },
+        {
+          "id": "024b69951c74ed18f241cc8e24a8ad9a",
+          "uri": "https://raw.githubusercontent.com/claudioballardini01/json/refs/heads/main/resource.json",
+          "priority": 2
         }
+      ]
       "download_file": [],
       "format": [],
       "license": null,
